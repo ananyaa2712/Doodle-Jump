@@ -1,0 +1,2 @@
+# Doodle-Jump
+In Doodle Jump, the aim is to guide  "The Doodler" up a never-ending series of platforms without falling. The left side of the playing field is connected with the right side. For devices with an accelerometer, players tilt the device from side to side to move the Doodler in the desired direction.  Projectiles may fly in a straight line off the screen or be affected by gravity and fall downwards. There is no definitive end to the game.
